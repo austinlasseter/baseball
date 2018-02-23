@@ -9,4 +9,5 @@ This repo was created to support a brief talk I gave on hypothesis testing as pa
 4. Calculate your test statistic.
 5. Find your p-value and make a conclusion.
 
-https://docs.google.com/presentation/d/1ZFJaQbGZSmdgAEpy1I9GPsGrv23t4gn5u-f0kvhiQhI/edit?usp=sharing
+[Link to slide presentation](https://docs.google.com/presentation/d/1ZFJaQbGZSmdgAEpy1I9GPsGrv23t4gn5u-f0kvhiQhI/edit?usp=sharing)
+
