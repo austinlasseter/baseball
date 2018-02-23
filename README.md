@@ -1,4 +1,4 @@
-# Explaining hypothesis testing
+# Explaining hypothesis testing with baseball bats
 This repo was created to support a brief talk I gave on hypothesis testing as part of the Data Science Immersive class at General Assembly.
 
 ## Five steps to hypothesis testing
